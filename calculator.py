@@ -26,7 +26,7 @@ numbers = []
 total_numbers = int(input("Enter the total nubers:"))
 if total_numbers >= 1:
     for i in range(0,total_numbers):
-        number = int(input("Enter the Number:"))git
+        number = int(input("Enter the Number:"))
         numbers.append(number)
 
 symbol = input("Enter the symbol")
